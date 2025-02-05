@@ -4,3 +4,4 @@ roboflow
 numpy==1.24.3
 torch==1.13.1  # or the version you are using
 torchvision==0.14.1
+ultralytics==8.3.71
